@@ -1,0 +1,40 @@
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(70, 68, 66);
+    color: white;
+    padding: 40px;
+    border: 7px;
+    margin: 60px;
+    border-style: solid;
+    border-color: rgb(32, 29, 29);
+}
+
+.store-link {
+    color: #EA6E2F;
+    font-size: 20px;
+  }
+
+  .content2 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(70, 68, 66);
+    color: white;
+    padding: 50px;
+    margin: 50px;
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(32, 29, 29) #EA6E2F;
+   }
+
+   .content3 {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(70, 68, 66);
+    color: white;
+    padding: 50px;
+    margin: 50px;
+    border: 10px;
+    border-style: solid;
+    border-color: #EA6E2F rgb(32, 29, 29);
+   }
